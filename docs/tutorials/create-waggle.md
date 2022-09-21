@@ -2,10 +2,11 @@
 sidebar_position: 4
 ---
 
-# Building your own Waggle Device
+:::
+Note: This tutorial is work in progress and is made available here for early preview.
+:::
 
-<!-- Talk about why someone woudl wnat to make their own waggle device
-- Why someone would want to create their own waggle device ?  (for local development, classroom, etc.) -->
+# Building your own Waggle Device
 
 Do you ever look into the sky and wonder how will the cloud move over time? Do you ever want to know if a wildfire is possibly to start in a forest? If you would like to build, design and deploy a software that could answer your questions above, then Waggle is the right choice for you. Waggle is an edge computing wireless sensor device, say, you can define what the device will be detecting by building a software on it.
 
