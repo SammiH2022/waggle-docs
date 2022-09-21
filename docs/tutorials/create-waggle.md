@@ -18,17 +18,13 @@ You might be ...
 - a professor that wants to introduce Waggle device to your students and plans to instruct students to make 20+ waggle devices
 - someone interested in Waggle and making an app but doesnt have access to production nodes
 - a new user of waggle network that wants to use a new sensor (i.e. a new camera, a new bat singal detector, a new custom sensor they built)
-  <!-- - link this "Bring your own sensor to Waggle" (./access-waggle-sensor.md) -->
 
-If you have your device ready, you could follow the instructions in [Access Waggle sensors](./access-waggle-sensors.md) to
-
-<!-- reference minji's concept paragraph (https://docs.google.com/document/d/1KrCU5IS5vUCSB6lj7th1JgUz4y7lYBclk5NJP_5Ijoc/edit#) -->
+If you have your device ready, you could follow the instructions in [Access Waggle sensors](./access-waggle-sensors.md) to start defining the edge computing software on the device. If you don't, you could use a Sage Edge Computing kit to easy set up a hardware platform for development.
 
 An inexpensive Sage Edge Computing kit that can enable students to run existing AI@Edge computations with cameras and microphones, and then develop their own codes. The Sage Beehive will host the data and make it available to cloud-based analysis tools and workflow frameworks. This document describes the overall concept, some initial goals, and workflow.
 
 ## Support Platforms
 
-Talk about the currently only supported platform (nano) and Links to the node-platforms repo for the Nvidia Nano
 The only supported platform now is Nvidia Nano, please refer to the [link] (https://github.com/waggle-sensor/node-platforms/tree/main/nvidia-nano) to see the guide of setting up Nvidia Nano.
 
 (put a note about future supported platforms: https://github.com/waggle-sensor/node-platforms)
