@@ -2,11 +2,12 @@
 sidebar_position: 4
 ---
 
+
+# Building your own Waggle Device
+
 :::
 Note: This tutorial is work in progress and is made available here for early preview.
 :::
-
-# Building your own Waggle Device
 
 Do you ever look into the sky and wonder how will the cloud move over time? Do you ever want to know if a wildfire is possibly to start in a forest? If you would like to build, design and deploy a software that could answer your questions above, then Waggle is the right choice for you. Waggle is an edge computing wireless sensor device, say, you can define what the device will be detecting by building a software on it.
 
@@ -26,9 +27,8 @@ An inexpensive Sage Edge Computing kit that can enable students to run existing 
 
 ## Support Platforms
 
-The only supported platform now is Nvidia Nano, please refer to the [link] (https://github.com/waggle-sensor/node-platforms/tree/main/nvidia-nano) to see the guide of setting up Nvidia Nano.
+The only supported platform now is Nvidia Nano, please refer to the [link](https://github.com/waggle-sensor/node-platforms/tree/main/nvidia-nano) to see the guide of setting up Nvidia Nano.
 
-(put a note about future supported platforms: https://github.com/waggle-sensor/node-platforms)
 In the future, we will support more [platforms](https://github.com/waggle-sensor/node-platforms) such as Raspberry Pi 4, Wild Waggle Node, etc. You can also design your own device and follow the steps below to register to the platform.
 
 ## Register Your Own Device
